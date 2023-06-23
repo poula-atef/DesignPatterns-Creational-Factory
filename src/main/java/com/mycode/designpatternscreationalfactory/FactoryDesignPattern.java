@@ -10,6 +10,7 @@ public class FactoryDesignPattern {
         String vehicleType = "car";
         VehicleFactory factory = new VehicleFactory();
         Vehicle vehicle = factory.getVehicle(vehicleType);
+        // will print 4
         System.out.println(vehicle.getNumberOfTires());
 
     }
