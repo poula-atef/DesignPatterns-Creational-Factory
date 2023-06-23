@@ -9,4 +9,3 @@
   - ال Vehicle و ده ال Parent بتاع Car و Motorcycle
 - ثانيا package ال factory:
   - ال vehicleFactory و ده ال مصنع اللي اتكلمنا عنه بديله النوع اللي عايز اصنعه و هو بيعمله و يرجعهولي
-- ثالثا ال main و دي اللي فيها الكود بتاع ال developer اللي المفروض يكتبه عشان يستخدم ال design pattern ده صح 
